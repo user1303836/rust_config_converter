@@ -1,0 +1,16 @@
+vars:
+  service1:
+    config:
+      env: prod
+      retries: 3
+      version: 4.8
+  service2:
+    config:
+      env: prod
+      retries: 3
+      version: 4.8
+  service3:
+    config:
+      env: prod
+      retries: 3
+      version: 4.8
